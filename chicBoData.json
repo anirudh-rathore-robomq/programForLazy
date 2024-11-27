@@ -1,0 +1,3127 @@
+{
+    "output_form": [
+        {
+            "Choose Provisioning Type": "RoleDefinition",
+            "Choose Provisioning Type_options": {
+                "transformer.scimRuleDef.sortAttributes.configpath": [
+                    {
+                        "mappingRule.configpath": [
+                            {
+                                "ruleDefinition.configpath": {
+                                    "targetValue.required.textarea.configpath": {
+                                        "type": "string",
+                                        "value": "<div>NYU</div>"
+                                    }
+                                },
+                                "filter.configpath": [
+                                    [
+                                        {
+                                            "itemName": "saved_physicalDeliveryOfficeName&display_Office (physicalDeliveryOfficeName)",
+                                            "function": "Equals/string",
+                                            "targetValue.required.textarea.configpath": {
+                                                "type": "string",
+                                                "value": "<div>NYU</div>"
+                                            }
+                                        },
+                                        {
+                                            "itemName": "saved_departmentNumber&display_Department Number (departmentNumber)",
+                                            "function": "Equals/string",
+                                            "targetValue.required.textarea.configpath": {
+                                                "type": "string",
+                                                "value": "<div>100</div>"
+                                            }
+                                        }
+                                    ]
+                                ]
+                            },
+                            {
+                                "ruleDefinition.configpath": {
+                                    "targetValue.required.textarea.configpath": {
+                                        "type": "string",
+                                        "value": "<div>VA</div>"
+                                    }
+                                },
+                                "filter.configpath": [
+                                    [
+                                        {
+                                            "itemName": "saved_physicalDeliveryOfficeName&display_Office (physicalDeliveryOfficeName)",
+                                            "function": "Equals/string",
+                                            "targetValue.required.textarea.configpath": {
+                                                "type": "string",
+                                                "value": "<div>VA</div>"
+                                            }
+                                        },
+                                        {
+                                            "itemName": "saved_departmentNumber&display_Department Number (departmentNumber)",
+                                            "function": "Equals/string",
+                                            "targetValue.required.textarea.configpath": {
+                                                "type": "string",
+                                                "value": "<div>100</div>"
+                                            }
+                                        }
+                                    ]
+                                ]
+                            },
+                            {
+                                "ruleDefinition.configpath": {
+                                    "targetValue.required.textarea.configpath": {
+                                        "type": "string",
+                                        "value": "<div>Barbara-102000</div>"
+                                    }
+                                },
+                                "filter.configpath": [
+                                    [
+                                        {
+                                            "itemName": "saved_physicalDeliveryOfficeName&display_Office (physicalDeliveryOfficeName)",
+                                            "function": "Equals/string",
+                                            "targetValue.required.textarea.configpath": {
+                                                "type": "string",
+                                                "value": "<div>Barbara Whitney Carr Administration Building</div>"
+                                            }
+                                        },
+                                        {
+                                            "itemName": "saved_departmentNumber&display_Department Number (departmentNumber)",
+                                            "function": "Equals/string",
+                                            "targetValue.required.textarea.configpath": {
+                                                "type": "string",
+                                                "value": "<div>102000</div>"
+                                            }
+                                        }
+                                    ]
+                                ]
+                            },
+                            {
+                                "ruleDefinition.configpath": {
+                                    "targetValue.required.textarea.configpath": {
+                                        "type": "string",
+                                        "value": "<div>Barbara-151000</div>"
+                                    }
+                                },
+                                "filter.configpath": [
+                                    [
+                                        {
+                                            "itemName": "saved_physicalDeliveryOfficeName&display_Office (physicalDeliveryOfficeName)",
+                                            "function": "Equals/string",
+                                            "targetValue.required.textarea.configpath": {
+                                                "type": "string",
+                                                "value": "<div>Barbara Whitney Carr Administration Building</div>"
+                                            }
+                                        },
+                                        {
+                                            "itemName": "saved_departmentNumber&display_Department Number (departmentNumber)",
+                                            "function": "Equals/string",
+                                            "targetValue.required.textarea.configpath": {
+                                                "type": "string",
+                                                "value": "<div>151000</div>"
+                                            }
+                                        }
+                                    ]
+                                ]
+                            },
+                            {
+                                "ruleDefinition.configpath": {
+                                    "targetValue.required.textarea.configpath": {
+                                        "type": "string",
+                                        "value": "<div>Barbara-156000</div>"
+                                    }
+                                },
+                                "filter.configpath": [
+                                    [
+                                        {
+                                            "itemName": "saved_physicalDeliveryOfficeName&display_Office (physicalDeliveryOfficeName)",
+                                            "function": "Equals/string",
+                                            "targetValue.required.textarea.configpath": {
+                                                "type": "string",
+                                                "value": "<div>Barbara Whitney Carr Administration Building</div>"
+                                            }
+                                        },
+                                        {
+                                            "itemName": "saved_departmentNumber&display_Department Number (departmentNumber)",
+                                            "function": "Equals/string",
+                                            "targetValue.required.textarea.configpath": {
+                                                "type": "string",
+                                                "value": "<div>156000</div>"
+                                            }
+                                        }
+                                    ]
+                                ]
+                            },
+                            {
+                                "ruleDefinition.configpath": {
+                                    "targetValue.required.textarea.configpath": {
+                                        "type": "string",
+                                        "value": "<div>Barbara-158000</div>"
+                                    }
+                                },
+                                "filter.configpath": [
+                                    [
+                                        {
+                                            "itemName": "saved_physicalDeliveryOfficeName&display_Office (physicalDeliveryOfficeName)",
+                                            "function": "Equals/string",
+                                            "targetValue.required.textarea.configpath": {
+                                                "type": "string",
+                                                "value": "<div>Barbara Whitney Carr Administration Building</div>"
+                                            }
+                                        },
+                                        {
+                                            "itemName": "saved_departmentNumber&display_Department Number (departmentNumber)",
+                                            "function": "Equals/string",
+                                            "targetValue.required.textarea.configpath": {
+                                                "type": "string",
+                                                "value": "<div>158000</div>"
+                                            }
+                                        }
+                                    ]
+                                ]
+                            },
+                            {
+                                "ruleDefinition.configpath": {
+                                    "targetValue.required.textarea.configpath": {
+                                        "type": "string",
+                                        "value": "<div>Barbara-303000</div>"
+                                    }
+                                },
+                                "filter.configpath": [
+                                    [
+                                        {
+                                            "itemName": "saved_physicalDeliveryOfficeName&display_Office (physicalDeliveryOfficeName)",
+                                            "function": "Equals/string",
+                                            "targetValue.required.textarea.configpath": {
+                                                "type": "string",
+                                                "value": "<div>Barbara Whitney Carr Administration Building</div>"
+                                            }
+                                        },
+                                        {
+                                            "itemName": "saved_departmentNumber&display_Department Number (departmentNumber)",
+                                            "function": "Equals/string",
+                                            "targetValue.required.textarea.configpath": {
+                                                "type": "string",
+                                                "value": "<div>303000</div>"
+                                            }
+                                        }
+                                    ]
+                                ]
+                            },
+                            {
+                                "ruleDefinition.configpath": {
+                                    "targetValue.required.textarea.configpath": {
+                                        "type": "string",
+                                        "value": "<div>Barbara-304000</div>"
+                                    }
+                                },
+                                "filter.configpath": [
+                                    [
+                                        {
+                                            "itemName": "saved_physicalDeliveryOfficeName&display_Office (physicalDeliveryOfficeName)",
+                                            "function": "Equals/string",
+                                            "targetValue.required.textarea.configpath": {
+                                                "type": "string",
+                                                "value": "<div>Barbara Whitney Carr Administration Building</div>"
+                                            }
+                                        },
+                                        {
+                                            "itemName": "saved_departmentNumber&display_Department Number (departmentNumber)",
+                                            "function": "Equals/string",
+                                            "targetValue.required.textarea.configpath": {
+                                                "type": "string",
+                                                "value": "<div>304000</div>"
+                                            }
+                                        }
+                                    ]
+                                ]
+                            },
+                            {
+                                "ruleDefinition.configpath": {
+                                    "targetValue.required.textarea.configpath": {
+                                        "type": "string",
+                                        "value": "<div>Barbara-601000</div>"
+                                    }
+                                },
+                                "filter.configpath": [
+                                    [
+                                        {
+                                            "itemName": "saved_physicalDeliveryOfficeName&display_Office (physicalDeliveryOfficeName)",
+                                            "function": "Equals/string",
+                                            "targetValue.required.textarea.configpath": {
+                                                "type": "string",
+                                                "value": "<div>Barbara Whitney Carr Administration Building</div>"
+                                            }
+                                        },
+                                        {
+                                            "itemName": "saved_departmentNumber&display_Department Number (departmentNumber)",
+                                            "function": "Equals/string",
+                                            "targetValue.required.textarea.configpath": {
+                                                "type": "string",
+                                                "value": "<div>601000</div>"
+                                            }
+                                        }
+                                    ]
+                                ]
+                            },
+                            {
+                                "ruleDefinition.configpath": {
+                                    "targetValue.required.textarea.configpath": {
+                                        "type": "string",
+                                        "value": "<div>Barbara-602000</div>"
+                                    }
+                                },
+                                "filter.configpath": [
+                                    [
+                                        {
+                                            "itemName": "saved_physicalDeliveryOfficeName&display_Office (physicalDeliveryOfficeName)",
+                                            "function": "Equals/string",
+                                            "targetValue.required.textarea.configpath": {
+                                                "type": "string",
+                                                "value": "<div>Barbara Whitney Carr Administration Building</div>"
+                                            }
+                                        },
+                                        {
+                                            "itemName": "saved_departmentNumber&display_Department Number (departmentNumber)",
+                                            "function": "Equals/string",
+                                            "targetValue.required.textarea.configpath": {
+                                                "type": "string",
+                                                "value": "<div>602000</div>"
+                                            }
+                                        }
+                                    ]
+                                ]
+                            },
+                            {
+                                "ruleDefinition.configpath": {
+                                    "targetValue.required.textarea.configpath": {
+                                        "type": "string",
+                                        "value": "<div>Barbara-603000</div>"
+                                    }
+                                },
+                                "filter.configpath": [
+                                    [
+                                        {
+                                            "itemName": "saved_physicalDeliveryOfficeName&display_Office (physicalDeliveryOfficeName)",
+                                            "function": "Equals/string",
+                                            "targetValue.required.textarea.configpath": {
+                                                "type": "string",
+                                                "value": "<div>Barbara Whitney Carr Administration Building</div>"
+                                            }
+                                        },
+                                        {
+                                            "itemName": "saved_departmentNumber&display_Department Number (departmentNumber)",
+                                            "function": "Equals/string",
+                                            "targetValue.required.textarea.configpath": {
+                                                "type": "string",
+                                                "value": "<div>603000</div>"
+                                            }
+                                        }
+                                    ]
+                                ]
+                            },
+                            {
+                                "ruleDefinition.configpath": {
+                                    "targetValue.required.textarea.configpath": {
+                                        "type": "string",
+                                        "value": "<div>Barbara-604000</div>"
+                                    }
+                                },
+                                "filter.configpath": [
+                                    [
+                                        {
+                                            "itemName": "saved_physicalDeliveryOfficeName&display_Office (physicalDeliveryOfficeName)",
+                                            "function": "Equals/string",
+                                            "targetValue.required.textarea.configpath": {
+                                                "type": "string",
+                                                "value": "<div>Barbara Whitney Carr Administration Building</div>"
+                                            }
+                                        },
+                                        {
+                                            "itemName": "saved_departmentNumber&display_Department Number (departmentNumber)",
+                                            "function": "Equals/string",
+                                            "targetValue.required.textarea.configpath": {
+                                                "type": "string",
+                                                "value": "<div>604000</div>"
+                                            }
+                                        }
+                                    ]
+                                ]
+                            },
+                            {
+                                "ruleDefinition.configpath": {
+                                    "targetValue.required.textarea.configpath": {
+                                        "type": "string",
+                                        "value": "<div>Barbara-651000</div>"
+                                    }
+                                },
+                                "filter.configpath": [
+                                    [
+                                        {
+                                            "itemName": "saved_physicalDeliveryOfficeName&display_Office (physicalDeliveryOfficeName)",
+                                            "function": "Equals/string",
+                                            "targetValue.required.textarea.configpath": {
+                                                "type": "string",
+                                                "value": "<div>Barbara Whitney Carr Administration Building</div>"
+                                            }
+                                        },
+                                        {
+                                            "itemName": "saved_departmentNumber&display_Department Number (departmentNumber)",
+                                            "function": "Equals/string",
+                                            "targetValue.required.textarea.configpath": {
+                                                "type": "string",
+                                                "value": "<div>651000</div>"
+                                            }
+                                        }
+                                    ]
+                                ]
+                            },
+                            {
+                                "ruleDefinition.configpath": {
+                                    "targetValue.required.textarea.configpath": {
+                                        "type": "string",
+                                        "value": "<div>Barbara-652000</div>"
+                                    }
+                                },
+                                "filter.configpath": [
+                                    [
+                                        {
+                                            "itemName": "saved_physicalDeliveryOfficeName&display_Office (physicalDeliveryOfficeName)",
+                                            "function": "Equals/string",
+                                            "targetValue.required.textarea.configpath": {
+                                                "type": "string",
+                                                "value": "<div>Barbara Whitney Carr Administration Building</div>"
+                                            }
+                                        },
+                                        {
+                                            "itemName": "saved_departmentNumber&display_Department Number (departmentNumber)",
+                                            "function": "Equals/string",
+                                            "targetValue.required.textarea.configpath": {
+                                                "type": "string",
+                                                "value": "<div>652000</div>"
+                                            }
+                                        }
+                                    ]
+                                ]
+                            },
+                            {
+                                "ruleDefinition.configpath": {
+                                    "targetValue.required.textarea.configpath": {
+                                        "type": "string",
+                                        "value": "<div>Barbara-654000</div>"
+                                    }
+                                },
+                                "filter.configpath": [
+                                    [
+                                        {
+                                            "itemName": "saved_physicalDeliveryOfficeName&display_Office (physicalDeliveryOfficeName)",
+                                            "function": "Equals/string",
+                                            "targetValue.required.textarea.configpath": {
+                                                "type": "string",
+                                                "value": "<div>Barbara Whitney Carr Administration Building</div>"
+                                            }
+                                        },
+                                        {
+                                            "itemName": "saved_departmentNumber&display_Department Number (departmentNumber)",
+                                            "function": "Equals/string",
+                                            "targetValue.required.textarea.configpath": {
+                                                "type": "string",
+                                                "value": "<div>654000</div>"
+                                            }
+                                        }
+                                    ]
+                                ]
+                            },
+                            {
+                                "ruleDefinition.configpath": {
+                                    "targetValue.required.textarea.configpath": {
+                                        "type": "string",
+                                        "value": "<div>Barbara-655000</div>"
+                                    }
+                                },
+                                "filter.configpath": [
+                                    [
+                                        {
+                                            "itemName": "saved_physicalDeliveryOfficeName&display_Office (physicalDeliveryOfficeName)",
+                                            "function": "Equals/string",
+                                            "targetValue.required.textarea.configpath": {
+                                                "type": "string",
+                                                "value": "<div>Barbara Whitney Carr Administration Building</div>"
+                                            }
+                                        },
+                                        {
+                                            "itemName": "saved_departmentNumber&display_Department Number (departmentNumber)",
+                                            "function": "Equals/string",
+                                            "targetValue.required.textarea.configpath": {
+                                                "type": "string",
+                                                "value": "<div>655000</div>"
+                                            }
+                                        }
+                                    ]
+                                ]
+                            },
+                            {
+                                "ruleDefinition.configpath": {
+                                    "targetValue.required.textarea.configpath": {
+                                        "type": "string",
+                                        "value": "<div>Barbara-656000</div>"
+                                    }
+                                },
+                                "filter.configpath": [
+                                    [
+                                        {
+                                            "itemName": "saved_physicalDeliveryOfficeName&display_Office (physicalDeliveryOfficeName)",
+                                            "function": "Equals/string",
+                                            "targetValue.required.textarea.configpath": {
+                                                "type": "string",
+                                                "value": "<div>Barbara Whitney Carr Administration Building</div>"
+                                            }
+                                        },
+                                        {
+                                            "itemName": "saved_departmentNumber&display_Department Number (departmentNumber)",
+                                            "function": "Equals/string",
+                                            "targetValue.required.textarea.configpath": {
+                                                "type": "string",
+                                                "value": "<div>656000</div>"
+                                            }
+                                        }
+                                    ]
+                                ]
+                            },
+                            {
+                                "ruleDefinition.configpath": {
+                                    "targetValue.required.textarea.configpath": {
+                                        "type": "string",
+                                        "value": "<div>Barbara-657000</div>"
+                                    }
+                                },
+                                "filter.configpath": [
+                                    [
+                                        {
+                                            "itemName": "saved_physicalDeliveryOfficeName&display_Office (physicalDeliveryOfficeName)",
+                                            "function": "Equals/string",
+                                            "targetValue.required.textarea.configpath": {
+                                                "type": "string",
+                                                "value": "<div>Barbara Whitney Carr Administration Building</div>"
+                                            }
+                                        },
+                                        {
+                                            "itemName": "saved_departmentNumber&display_Department Number (departmentNumber)",
+                                            "function": "Equals/string",
+                                            "targetValue.required.textarea.configpath": {
+                                                "type": "string",
+                                                "value": "<div>657000</div>"
+                                            }
+                                        }
+                                    ]
+                                ]
+                            },
+                            {
+                                "ruleDefinition.configpath": {
+                                    "targetValue.required.textarea.configpath": {
+                                        "type": "string",
+                                        "value": "<div>Barbara-658000</div>"
+                                    }
+                                },
+                                "filter.configpath": [
+                                    [
+                                        {
+                                            "itemName": "saved_physicalDeliveryOfficeName&display_Office (physicalDeliveryOfficeName)",
+                                            "function": "Equals/string",
+                                            "targetValue.required.textarea.configpath": {
+                                                "type": "string",
+                                                "value": "<div>Barbara Whitney Carr Administration Building</div>"
+                                            }
+                                        },
+                                        {
+                                            "itemName": "saved_departmentNumber&display_Department Number (departmentNumber)",
+                                            "function": "Equals/string",
+                                            "targetValue.required.textarea.configpath": {
+                                                "type": "string",
+                                                "value": "<div>658000</div>"
+                                            }
+                                        }
+                                    ]
+                                ]
+                            },
+                            {
+                                "ruleDefinition.configpath": {
+                                    "targetValue.required.textarea.configpath": {
+                                        "type": "string",
+                                        "value": "<div>Barbara-659000</div>"
+                                    }
+                                },
+                                "filter.configpath": [
+                                    [
+                                        {
+                                            "itemName": "saved_physicalDeliveryOfficeName&display_Office (physicalDeliveryOfficeName)",
+                                            "function": "Equals/string",
+                                            "targetValue.required.textarea.configpath": {
+                                                "type": "string",
+                                                "value": "<div>Barbara Whitney Carr Administration Building</div>"
+                                            }
+                                        },
+                                        {
+                                            "itemName": "saved_departmentNumber&display_Department Number (departmentNumber)",
+                                            "function": "Equals/string",
+                                            "targetValue.required.textarea.configpath": {
+                                                "type": "string",
+                                                "value": "<div>659000</div>"
+                                            }
+                                        }
+                                    ]
+                                ]
+                            },
+                            {
+                                "ruleDefinition.configpath": {
+                                    "targetValue.required.textarea.configpath": {
+                                        "type": "string",
+                                        "value": "<div>Barbara-702000</div>"
+                                    }
+                                },
+                                "filter.configpath": [
+                                    [
+                                        {
+                                            "itemName": "saved_physicalDeliveryOfficeName&display_Office (physicalDeliveryOfficeName)",
+                                            "function": "Equals/string",
+                                            "targetValue.required.textarea.configpath": {
+                                                "type": "string",
+                                                "value": "<div>Barbara Whitney Carr Administration Building</div>"
+                                            }
+                                        },
+                                        {
+                                            "itemName": "saved_departmentNumber&display_Department Number (departmentNumber)",
+                                            "function": "Equals/string",
+                                            "targetValue.required.textarea.configpath": {
+                                                "type": "string",
+                                                "value": "<div>702000</div>"
+                                            }
+                                        }
+                                    ]
+                                ]
+                            },
+                            {
+                                "ruleDefinition.configpath": {
+                                    "targetValue.required.textarea.configpath": {
+                                        "type": "string",
+                                        "value": "<div>Barbara-703000</div>"
+                                    }
+                                },
+                                "filter.configpath": [
+                                    [
+                                        {
+                                            "itemName": "saved_physicalDeliveryOfficeName&display_Office (physicalDeliveryOfficeName)",
+                                            "function": "Equals/string",
+                                            "targetValue.required.textarea.configpath": {
+                                                "type": "string",
+                                                "value": "<div>Barbara Whitney Carr Administration Building</div>"
+                                            }
+                                        },
+                                        {
+                                            "itemName": "saved_departmentNumber&display_Department Number (departmentNumber)",
+                                            "function": "Equals/string",
+                                            "targetValue.required.textarea.configpath": {
+                                                "type": "string",
+                                                "value": "<div>703000</div>"
+                                            }
+                                        }
+                                    ]
+                                ]
+                            },
+                            {
+                                "ruleDefinition.configpath": {
+                                    "targetValue.required.textarea.configpath": {
+                                        "type": "string",
+                                        "value": "<div>Barbara-704000</div>"
+                                    }
+                                },
+                                "filter.configpath": [
+                                    [
+                                        {
+                                            "itemName": "saved_physicalDeliveryOfficeName&display_Office (physicalDeliveryOfficeName)",
+                                            "function": "Equals/string",
+                                            "targetValue.required.textarea.configpath": {
+                                                "type": "string",
+                                                "value": "<div>Barbara Whitney Carr Administration Building</div>"
+                                            }
+                                        },
+                                        {
+                                            "itemName": "saved_departmentNumber&display_Department Number (departmentNumber)",
+                                            "function": "Equals/string",
+                                            "targetValue.required.textarea.configpath": {
+                                                "type": "string",
+                                                "value": "<div>704000</div>"
+                                            }
+                                        }
+                                    ]
+                                ]
+                            },
+                            {
+                                "ruleDefinition.configpath": {
+                                    "targetValue.required.textarea.configpath": {
+                                        "type": "string",
+                                        "value": "<div>Barbara-705000</div>"
+                                    }
+                                },
+                                "filter.configpath": [
+                                    [
+                                        {
+                                            "itemName": "saved_physicalDeliveryOfficeName&display_Office (physicalDeliveryOfficeName)",
+                                            "function": "Equals/string",
+                                            "targetValue.required.textarea.configpath": {
+                                                "type": "string",
+                                                "value": "<div>Barbara Whitney Carr Administration Building</div>"
+                                            }
+                                        },
+                                        {
+                                            "itemName": "saved_departmentNumber&display_Department Number (departmentNumber)",
+                                            "function": "Equals/string",
+                                            "targetValue.required.textarea.configpath": {
+                                                "type": "string",
+                                                "value": "<div>705000</div>"
+                                            }
+                                        }
+                                    ]
+                                ]
+                            },
+                            {
+                                "ruleDefinition.configpath": {
+                                    "targetValue.required.textarea.configpath": {
+                                        "type": "string",
+                                        "value": "<div>Barbara-011810</div>"
+                                    }
+                                },
+                                "filter.configpath": [
+                                    [
+                                        {
+                                            "itemName": "saved_physicalDeliveryOfficeName&display_Office (physicalDeliveryOfficeName)",
+                                            "function": "Equals/string",
+                                            "targetValue.required.textarea.configpath": {
+                                                "type": "string",
+                                                "value": "<div>Barbara Whitney Carr Administration Building</div>"
+                                            }
+                                        },
+                                        {
+                                            "itemName": "saved_departmentNumber&display_Department Number (departmentNumber)",
+                                            "function": "Equals/string",
+                                            "targetValue.required.textarea.configpath": {
+                                                "type": "string",
+                                                "value": "<div>011810</div>"
+                                            }
+                                        }
+                                    ]
+                                ]
+                            },
+                            {
+                                "ruleDefinition.configpath": {
+                                    "targetValue.required.textarea.configpath": {
+                                        "type": "string",
+                                        "value": "<div>Barbara-015220</div>"
+                                    }
+                                },
+                                "filter.configpath": [
+                                    [
+                                        {
+                                            "itemName": "saved_physicalDeliveryOfficeName&display_Office (physicalDeliveryOfficeName)",
+                                            "function": "Equals/string",
+                                            "targetValue.required.textarea.configpath": {
+                                                "type": "string",
+                                                "value": "<div>Barbara Whitney Carr Administration Building</div>"
+                                            }
+                                        },
+                                        {
+                                            "itemName": "saved_departmentNumber&display_Department Number (departmentNumber)",
+                                            "function": "Equals/string",
+                                            "targetValue.required.textarea.configpath": {
+                                                "type": "string",
+                                                "value": "<div>015220</div>"
+                                            }
+                                        }
+                                    ]
+                                ]
+                            },
+                            {
+                                "ruleDefinition.configpath": {
+                                    "targetValue.required.textarea.configpath": {
+                                        "type": "string",
+                                        "value": "<div>Barbara-016030</div>"
+                                    }
+                                },
+                                "filter.configpath": [
+                                    [
+                                        {
+                                            "itemName": "saved_physicalDeliveryOfficeName&display_Office (physicalDeliveryOfficeName)",
+                                            "function": "Equals/string",
+                                            "targetValue.required.textarea.configpath": {
+                                                "type": "string",
+                                                "value": "<div>Barbara Whitney Carr Administration Building</div>"
+                                            }
+                                        },
+                                        {
+                                            "itemName": "saved_departmentNumber&display_Department Number (departmentNumber)",
+                                            "function": "Equals/string",
+                                            "targetValue.required.textarea.configpath": {
+                                                "type": "string",
+                                                "value": "<div>016030</div>"
+                                            }
+                                        }
+                                    ]
+                                ]
+                            },
+                            {
+                                "ruleDefinition.configpath": {
+                                    "targetValue.required.textarea.configpath": {
+                                        "type": "string",
+                                        "value": "<div>Fruit-306000</div>"
+                                    }
+                                },
+                                "filter.configpath": [
+                                    [
+                                        {
+                                            "itemName": "saved_physicalDeliveryOfficeName&display_Office (physicalDeliveryOfficeName)",
+                                            "function": "Equals/string",
+                                            "targetValue.required.textarea.configpath": {
+                                                "type": "string",
+                                                "value": "<div>Fruit & Vegetable Island</div>"
+                                            }
+                                        },
+                                        {
+                                            "itemName": "saved_departmentNumber&display_Department Number (departmentNumber)",
+                                            "function": "Equals/string",
+                                            "targetValue.required.textarea.configpath": {
+                                                "type": "string",
+                                                "value": "<div>306000</div>"
+                                            }
+                                        }
+                                    ]
+                                ]
+                            },
+                            {
+                                "ruleDefinition.configpath": {
+                                    "targetValue.required.textarea.configpath": {
+                                        "type": "string",
+                                        "value": "<div>Grainger-704000</div>"
+                                    }
+                                },
+                                "filter.configpath": [
+                                    [
+                                        {
+                                            "itemName": "saved_physicalDeliveryOfficeName&display_Office (physicalDeliveryOfficeName)",
+                                            "function": "Equals/string",
+                                            "targetValue.required.textarea.configpath": {
+                                                "type": "string",
+                                                "value": "<div>Grainger Center</div>"
+                                            }
+                                        },
+                                        {
+                                            "itemName": "saved_departmentNumber&display_Department Number (departmentNumber)",
+                                            "function": "Equals/string",
+                                            "targetValue.required.textarea.configpath": {
+                                                "type": "string",
+                                                "value": "<div>704000</div>"
+                                            }
+                                        }
+                                    ]
+                                ]
+                            },
+                            {
+                                "ruleDefinition.configpath": {
+                                    "targetValue.required.textarea.configpath": {
+                                        "type": "string",
+                                        "value": "<div>Green-502000</div>"
+                                    }
+                                },
+                                "filter.configpath": [
+                                    [
+                                        {
+                                            "itemName": "saved_physicalDeliveryOfficeName&display_Office (physicalDeliveryOfficeName)",
+                                            "function": "Equals/string",
+                                            "targetValue.required.textarea.configpath": {
+                                                "type": "string",
+                                                "value": "<div>Green Roof Garden PSC</div>"
+                                            }
+                                        },
+                                        {
+                                            "itemName": "saved_departmentNumber&display_Department Number (departmentNumber)",
+                                            "function": "Equals/string",
+                                            "targetValue.required.textarea.configpath": {
+                                                "type": "string",
+                                                "value": "<div>502000</div>"
+                                            }
+                                        }
+                                    ]
+                                ]
+                            },
+                            {
+                                "ruleDefinition.configpath": {
+                                    "targetValue.required.textarea.configpath": {
+                                        "type": "string",
+                                        "value": "<div>Headhouse-121000</div>"
+                                    }
+                                },
+                                "filter.configpath": [
+                                    [
+                                        {
+                                            "itemName": "saved_physicalDeliveryOfficeName&display_Office (physicalDeliveryOfficeName)",
+                                            "function": "Equals/string",
+                                            "targetValue.required.textarea.configpath": {
+                                                "type": "string",
+                                                "value": "<div>Headhouse / Production Greenhouses</div>"
+                                            }
+                                        },
+                                        {
+                                            "itemName": "saved_departmentNumber&display_Department Number (departmentNumber)",
+                                            "function": "Equals/string",
+                                            "targetValue.required.textarea.configpath": {
+                                                "type": "string",
+                                                "value": "<div>121000</div>"
+                                            }
+                                        }
+                                    ]
+                                ]
+                            },
+                            {
+                                "ruleDefinition.configpath": {
+                                    "targetValue.required.textarea.configpath": {
+                                        "type": "string",
+                                        "value": "<div>Horticulture-104000</div>"
+                                    }
+                                },
+                                "filter.configpath": [
+                                    [
+                                        {
+                                            "itemName": "saved_physicalDeliveryOfficeName&display_Office (physicalDeliveryOfficeName)",
+                                            "function": "Equals/string",
+                                            "targetValue.required.textarea.configpath": {
+                                                "type": "string",
+                                                "value": "<div>Horticulture Building</div>"
+                                            }
+                                        },
+                                        {
+                                            "itemName": "saved_departmentNumber&display_Department Number (departmentNumber)",
+                                            "function": "Equals/string",
+                                            "targetValue.required.textarea.configpath": {
+                                                "type": "string",
+                                                "value": "<div>104000</div>"
+                                            }
+                                        }
+                                    ]
+                                ]
+                            },
+                            {
+                                "ruleDefinition.configpath": {
+                                    "targetValue.required.textarea.configpath": {
+                                        "type": "string",
+                                        "value": "<div>Horticulture-105000</div>"
+                                    }
+                                },
+                                "filter.configpath": [
+                                    [
+                                        {
+                                            "itemName": "saved_physicalDeliveryOfficeName&display_Office (physicalDeliveryOfficeName)",
+                                            "function": "Equals/string",
+                                            "targetValue.required.textarea.configpath": {
+                                                "type": "string",
+                                                "value": "<div>Horticulture Building</div>"
+                                            }
+                                        },
+                                        {
+                                            "itemName": "saved_departmentNumber&display_Department Number (departmentNumber)",
+                                            "function": "Equals/string",
+                                            "targetValue.required.textarea.configpath": {
+                                                "type": "string",
+                                                "value": "<div>105000</div>"
+                                            }
+                                        }
+                                    ]
+                                ]
+                            },
+                            {
+                                "ruleDefinition.configpath": {
+                                    "targetValue.required.textarea.configpath": {
+                                        "type": "string",
+                                        "value": "<div>Horticulture-107000</div>"
+                                    }
+                                },
+                                "filter.configpath": [
+                                    [
+                                        {
+                                            "itemName": "saved_physicalDeliveryOfficeName&display_Office (physicalDeliveryOfficeName)",
+                                            "function": "Equals/string",
+                                            "targetValue.required.textarea.configpath": {
+                                                "type": "string",
+                                                "value": "<div>Horticulture Building</div>"
+                                            }
+                                        },
+                                        {
+                                            "itemName": "saved_departmentNumber&display_Department Number (departmentNumber)",
+                                            "function": "Equals/string",
+                                            "targetValue.required.textarea.configpath": {
+                                                "type": "string",
+                                                "value": "<div>107000</div>"
+                                            }
+                                        }
+                                    ]
+                                ]
+                            },
+                            {
+                                "ruleDefinition.configpath": {
+                                    "targetValue.required.textarea.configpath": {
+                                        "type": "string",
+                                        "value": "<div>Horticulture-110000</div>"
+                                    }
+                                },
+                                "filter.configpath": [
+                                    [
+                                        {
+                                            "itemName": "saved_physicalDeliveryOfficeName&display_Office (physicalDeliveryOfficeName)",
+                                            "function": "Equals/string",
+                                            "targetValue.required.textarea.configpath": {
+                                                "type": "string",
+                                                "value": "<div>Horticulture Building</div>"
+                                            }
+                                        },
+                                        {
+                                            "itemName": "saved_departmentNumber&display_Department Number (departmentNumber)",
+                                            "function": "Equals/string",
+                                            "targetValue.required.textarea.configpath": {
+                                                "type": "string",
+                                                "value": "<div>110000</div>"
+                                            }
+                                        }
+                                    ]
+                                ]
+                            },
+                            {
+                                "ruleDefinition.configpath": {
+                                    "targetValue.required.textarea.configpath": {
+                                        "type": "string",
+                                        "value": "<div>Horticulture-111000</div>"
+                                    }
+                                },
+                                "filter.configpath": [
+                                    [
+                                        {
+                                            "itemName": "saved_physicalDeliveryOfficeName&display_Office (physicalDeliveryOfficeName)",
+                                            "function": "Equals/string",
+                                            "targetValue.required.textarea.configpath": {
+                                                "type": "string",
+                                                "value": "<div>Horticulture Building</div>"
+                                            }
+                                        },
+                                        {
+                                            "itemName": "saved_departmentNumber&display_Department Number (departmentNumber)",
+                                            "function": "Equals/string",
+                                            "targetValue.required.textarea.configpath": {
+                                                "type": "string",
+                                                "value": "<div>111000</div>"
+                                            }
+                                        }
+                                    ]
+                                ]
+                            },
+                            {
+                                "ruleDefinition.configpath": {
+                                    "targetValue.required.textarea.configpath": {
+                                        "type": "string",
+                                        "value": "<div>Horticulture-112000</div>"
+                                    }
+                                },
+                                "filter.configpath": [
+                                    [
+                                        {
+                                            "itemName": "saved_physicalDeliveryOfficeName&display_Office (physicalDeliveryOfficeName)",
+                                            "function": "Equals/string",
+                                            "targetValue.required.textarea.configpath": {
+                                                "type": "string",
+                                                "value": "<div>Horticulture Building</div>"
+                                            }
+                                        },
+                                        {
+                                            "itemName": "saved_departmentNumber&display_Department Number (departmentNumber)",
+                                            "function": "Equals/string",
+                                            "targetValue.required.textarea.configpath": {
+                                                "type": "string",
+                                                "value": "<div>112000</div>"
+                                            }
+                                        }
+                                    ]
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "transformer.roleBasedDeprovisioning.configpath": true,
+                "transformer.scimMappingRules.configpath": [
+                    {
+                        "dropdownRule.configpath": {
+                            "value.configpath": "NYU"
+                        },
+                        "groupsValue.configpath": {
+                            "groups.configpath": [
+                                "saved_768286434263684&display_Everbridge Events"
+                            ]
+                        }
+                    },
+                    {
+                        "dropdownRule.configpath": {
+                            "value.configpath": "VA"
+                        },
+                        "groupsValue.configpath": {
+                            "groups.configpath": [
+                                "saved_793987518562650&display_Human Resource group"
+                            ]
+                        }
+                    }
+                ],
+                "transformer.groups.configpath": [
+                    "saved_768286434263686&display_Everbridge All"
+                ]
+            },
+            "transformer.operations.configpath": [
+                "saved_Provisioning&display_Provisioning",
+                "saved_Deprovisioning&display_Deprovisioning"
+            ],
+            "transformer.identifier.configpath": "External Id",
+            "transformer.deliveryPathAdded.configpath": false,
+            "Employee Identifier_options": {
+                "transformer.identifierValue.required.textarea.configpath": {
+                    "type": "string",
+                    "value": "<div><trans contenteditable=\"false\">﻿<span contenteditable=\"false\">﻿﻿﻿﻿﻿﻿&nbsp;<div value=\"eyJkYXRhdHlwZSI6InN0cmluZyIsInBhdGgiOiJBRERhdGEvZW1wbG95ZWVJRCJ9\" style=\"background: #606060;color: white;padding: 2px 5px;font-size:14px; display: inline-block; border-radius: 5px;margin-top: 3px\"><img style=\"width:35px;height:15px; pointer-events: none;  border-right: 1px solid white; margin-right: 3px; padding-right: 3px; position: relative; bottom: -3px;\" src=\"./assets/favicon/hybrid/hybrid.png\">Employee ID (employeeID)</div>&nbsp;﻿﻿﻿﻿﻿﻿</span>﻿</trans></div>"
+                }
+            },
+            "transformer.mapping.configpath": [
+                {
+                    "item": "First Name",
+                    "value.textarea": {
+                        "type": "string",
+                        "value": "<div><trans contenteditable=\"false\">﻿<span contenteditable=\"false\">﻿﻿﻿﻿﻿﻿&nbsp;<div value=\"eyJkYXRhdHlwZSI6InN0cmluZyIsInBhdGgiOiJBRERhdGEvZ2l2ZW5OYW1lIn0=\" style=\"background: #606060;color: white;padding: 2px 5px;font-size:14px; display: inline-block; border-radius: 5px;margin-top: 3px\"><img style=\"width:22px;height:15px; pointer-events: none;  border-right: 1px solid white; margin-right: 3px; padding-right: 3px; position: relative; bottom: -3px;\" src=\"./assets/favicon/hybrid/hybrid.png\">First Name (givenName)</div>&nbsp;﻿﻿﻿﻿﻿﻿</span>﻿</trans></div>"
+                    }
+                },
+                {
+                    "item": "Last Name",
+                    "value.textarea": {
+                        "type": "string",
+                        "value": "<div><trans contenteditable=\"false\">﻿<span contenteditable=\"false\">﻿﻿﻿﻿﻿﻿&nbsp;<div value=\"eyJkYXRhdHlwZSI6InN0cmluZyIsInBhdGgiOiJBRERhdGEvc24ifQ==\" style=\"background: #606060;color: white;padding: 2px 5px;font-size:14px; display: inline-block; border-radius: 5px;margin-top: 3px\"><img style=\"width:22px;height:15px; pointer-events: none;  border-right: 1px solid white; margin-right: 3px; padding-right: 3px; position: relative; bottom: -3px;\" src=\"./assets/favicon/hybrid/hybrid.png\">Last Name (sn)</div>&nbsp;﻿﻿﻿﻿﻿﻿</span>﻿</trans></div>"
+                    }
+                },
+                {
+                    "item": "Record Type",
+                    "value.textarea": {
+                        "type": "string",
+                        "value": "<div>Employee</div>"
+                    }
+                },
+                {
+                    "item": "Language Preference",
+                    "value.textarea": {
+                        "type": "string",
+                        "value": "<div><trans contenteditable=\"false\">﻿<span contenteditable=\"false\">﻿﻿﻿﻿﻿﻿&nbsp;<div value=\"eyJkYXRhdHlwZSI6InN0cmluZyIsInBhdGgiOiJBRERhdGEvZXh0ZW5zaW9uQXR0cmlidXRlNCJ9\" style=\"background: #606060;color: white;padding: 2px 5px;font-size:14px; display: inline-block; border-radius: 5px;margin-top: 3px\"><img style=\"width:35px;height:15px; pointer-events: none;  border-right: 1px solid white; margin-right: 3px; padding-right: 3px; position: relative; bottom: -3px;\" src=\"./assets/favicon/hybrid/hybrid.png\">extensionAttribute4 (extensionAttribute4)</div>&nbsp;﻿﻿﻿﻿﻿﻿</span>﻿</trans></div>"
+                    }
+                },
+                {
+                    "item": "Location",
+                    "value.textarea": {
+                        "type": "string",
+                        "value": "<div><trans contenteditable=\"false\">﻿<span contenteditable=\"false\">﻿﻿﻿﻿﻿﻿&nbsp;<div value=\"eyJkYXRhdHlwZSI6InN0cmluZyIsInBhdGgiOiJBRERhdGEvcGh5c2ljYWxEZWxpdmVyeU9mZmljZU5hbWUifQ==\" style=\"background: #606060;color: white;padding: 2px 5px;font-size:14px; display: inline-block; border-radius: 5px;margin-top: 3px\"><img style=\"width:35px;height:15px; pointer-events: none;  border-right: 1px solid white; margin-right: 3px; padding-right: 3px; position: relative; bottom: -3px;\" src=\"./assets/favicon/hybrid/hybrid.png\">Office (physicalDeliveryOfficeName)</div>&nbsp;﻿﻿﻿﻿﻿﻿</span>﻿</trans></div>"
+                    }
+                },
+                {
+                    "item": "Dept #",
+                    "value.textarea": {
+                        "type": "string",
+                        "value": "<div><trans contenteditable=\"false\">﻿<span contenteditable=\"false\">﻿﻿﻿﻿﻿﻿&nbsp;<div value=\"eyJkYXRhdHlwZSI6InN0cmluZyIsInBhdGgiOiJBRERhdGEvZGVwYXJ0bWVudE51bWJlciJ9\" style=\"background: #606060;color: white;padding: 2px 5px;font-size:14px; display: inline-block; border-radius: 5px;margin-top: 3px\"><img style=\"width:35px;height:15px; pointer-events: none;  border-right: 1px solid white; margin-right: 3px; padding-right: 3px; position: relative; bottom: -3px;\" src=\"./assets/favicon/hybrid/hybrid.png\">Department Number (departmentNumber)</div>&nbsp;﻿﻿﻿﻿﻿﻿</span>﻿</trans></div>"
+                    }
+                },
+                {
+                    "item": "Country",
+                    "value.textarea": {
+                        "type": "string",
+                        "value": "<div><trans contenteditable=\"false\">﻿<span contenteditable=\"false\">﻿﻿﻿﻿﻿﻿&nbsp;<div value=\"eyJkYXRhdHlwZSI6InN0cmluZyIsInBhdGgiOiJBRERhdGEvZXh0ZW5zaW9uQXR0cmlidXRlMyJ9\" style=\"background: #606060;color: white;padding: 2px 5px;font-size:14px; display: inline-block; border-radius: 5px;margin-top: 3px\"><img style=\"width:35px;height:15px; pointer-events: none;  border-right: 1px solid white; margin-right: 3px; padding-right: 3px; position: relative; bottom: -3px;\" src=\"./assets/favicon/hybrid/hybrid.png\">extensionAttribute3 (extensionAttribute3)</div>&nbsp;﻿﻿﻿﻿﻿﻿</span>﻿</trans></div>"
+                    }
+                },
+                {
+                    "item": "Timezone",
+                    "value.textarea": {
+                        "type": "string",
+                        "value": "<div><trans contenteditable=\"false\">﻿<span contenteditable=\"false\">﻿﻿﻿﻿﻿﻿&nbsp;<div value=\"eyJkYXRhdHlwZSI6InN0cmluZyIsInBhdGgiOiJBRERhdGEvZXh0ZW5zaW9uQXR0cmlidXRlNSJ9\" style=\"background: #606060;color: white;padding: 2px 5px;font-size:14px; display: inline-block; border-radius: 5px;margin-top: 3px\"><img style=\"width:35px;height:15px; pointer-events: none;  border-right: 1px solid white; margin-right: 3px; padding-right: 3px; position: relative; bottom: -3px;\" src=\"./assets/favicon/hybrid/hybrid.png\">extensionAttribute5(extensionAttribute5)</div>&nbsp;﻿﻿﻿﻿﻿﻿</span>﻿</trans></div>"
+                    }
+                }
+            ]
+        }
+    ],
+    "output_config": [
+        {
+            "transformer.identifierValue": {
+                "dataType": "string",
+                "mandatory": true,
+                "args": [
+                    {
+                        "position": 0,
+                        "type": "string",
+                        "keyFromTrigger": "ADData/employeeID"
+                    }
+                ]
+            },
+            "transformer.scimRuleDef": [
+                {
+                    "mappingRule": [
+                        {
+                            "ruleDefinition": {
+                                "targetValue": {
+                                    "dataType": "string",
+                                    "mandatory": true,
+                                    "args": [
+                                        {
+                                            "position": 0,
+                                            "type": "string",
+                                            "userInputValue": "NYU"
+                                        }
+                                    ]
+                                }
+                            },
+                            "filter": [
+                                [
+                                    {
+                                        "itemName": "physicalDeliveryOfficeName",
+                                        "function": "Equals/string",
+                                        "targetValue": {
+                                            "dataType": "string",
+                                            "mandatory": true,
+                                            "args": [
+                                                {
+                                                    "position": 0,
+                                                    "type": "string",
+                                                    "userInputValue": "NYU"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "itemName": "departmentNumber",
+                                        "function": "Equals/string",
+                                        "targetValue": {
+                                            "dataType": "string",
+                                            "mandatory": true,
+                                            "args": [
+                                                {
+                                                    "position": 0,
+                                                    "type": "string",
+                                                    "userInputValue": "100"
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            ]
+                        },
+                        {
+                            "ruleDefinition": {
+                                "targetValue": {
+                                    "dataType": "string",
+                                    "mandatory": true,
+                                    "args": [
+                                        {
+                                            "position": 0,
+                                            "type": "string",
+                                            "userInputValue": "VA"
+                                        }
+                                    ]
+                                }
+                            },
+                            "filter": [
+                                [
+                                    {
+                                        "itemName": "physicalDeliveryOfficeName",
+                                        "function": "Equals/string",
+                                        "targetValue": {
+                                            "dataType": "string",
+                                            "mandatory": true,
+                                            "args": [
+                                                {
+                                                    "position": 0,
+                                                    "type": "string",
+                                                    "userInputValue": "VA"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "itemName": "departmentNumber",
+                                        "function": "Equals/string",
+                                        "targetValue": {
+                                            "dataType": "string",
+                                            "mandatory": true,
+                                            "args": [
+                                                {
+                                                    "position": 0,
+                                                    "type": "string",
+                                                    "userInputValue": "100"
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            ]
+                        },
+                        {
+                            "ruleDefinition": {
+                                "targetValue": {
+                                    "dataType": "string",
+                                    "mandatory": true,
+                                    "args": [
+                                        {
+                                            "position": 0,
+                                            "type": "string",
+                                            "userInputValue": "Barbara-102000"
+                                        }
+                                    ]
+                                }
+                            },
+                            "filter": [
+                                [
+                                    {
+                                        "itemName": "physicalDeliveryOfficeName",
+                                        "function": "Equals/string",
+                                        "targetValue": {
+                                            "dataType": "string",
+                                            "mandatory": true,
+                                            "args": [
+                                                {
+                                                    "position": 0,
+                                                    "type": "string",
+                                                    "userInputValue": "Barbara Whitney Carr Administration Building"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "itemName": "departmentNumber",
+                                        "function": "Equals/string",
+                                        "targetValue": {
+                                            "dataType": "string",
+                                            "mandatory": true,
+                                            "args": [
+                                                {
+                                                    "position": 0,
+                                                    "type": "string",
+                                                    "userInputValue": "102000"
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            ]
+                        },
+                        {
+                            "ruleDefinition": {
+                                "targetValue": {
+                                    "dataType": "string",
+                                    "mandatory": true,
+                                    "args": [
+                                        {
+                                            "position": 0,
+                                            "type": "string",
+                                            "userInputValue": "Barbara-151000"
+                                        }
+                                    ]
+                                }
+                            },
+                            "filter": [
+                                [
+                                    {
+                                        "itemName": "physicalDeliveryOfficeName",
+                                        "function": "Equals/string",
+                                        "targetValue": {
+                                            "dataType": "string",
+                                            "mandatory": true,
+                                            "args": [
+                                                {
+                                                    "position": 0,
+                                                    "type": "string",
+                                                    "userInputValue": "Barbara Whitney Carr Administration Building"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "itemName": "departmentNumber",
+                                        "function": "Equals/string",
+                                        "targetValue": {
+                                            "dataType": "string",
+                                            "mandatory": true,
+                                            "args": [
+                                                {
+                                                    "position": 0,
+                                                    "type": "string",
+                                                    "userInputValue": "151000"
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            ]
+                        },
+                        {
+                            "ruleDefinition": {
+                                "targetValue": {
+                                    "dataType": "string",
+                                    "mandatory": true,
+                                    "args": [
+                                        {
+                                            "position": 0,
+                                            "type": "string",
+                                            "userInputValue": "Barbara-156000"
+                                        }
+                                    ]
+                                }
+                            },
+                            "filter": [
+                                [
+                                    {
+                                        "itemName": "physicalDeliveryOfficeName",
+                                        "function": "Equals/string",
+                                        "targetValue": {
+                                            "dataType": "string",
+                                            "mandatory": true,
+                                            "args": [
+                                                {
+                                                    "position": 0,
+                                                    "type": "string",
+                                                    "userInputValue": "Barbara Whitney Carr Administration Building"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "itemName": "departmentNumber",
+                                        "function": "Equals/string",
+                                        "targetValue": {
+                                            "dataType": "string",
+                                            "mandatory": true,
+                                            "args": [
+                                                {
+                                                    "position": 0,
+                                                    "type": "string",
+                                                    "userInputValue": "156000"
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            ]
+                        },
+                        {
+                            "ruleDefinition": {
+                                "targetValue": {
+                                    "dataType": "string",
+                                    "mandatory": true,
+                                    "args": [
+                                        {
+                                            "position": 0,
+                                            "type": "string",
+                                            "userInputValue": "Barbara-158000"
+                                        }
+                                    ]
+                                }
+                            },
+                            "filter": [
+                                [
+                                    {
+                                        "itemName": "physicalDeliveryOfficeName",
+                                        "function": "Equals/string",
+                                        "targetValue": {
+                                            "dataType": "string",
+                                            "mandatory": true,
+                                            "args": [
+                                                {
+                                                    "position": 0,
+                                                    "type": "string",
+                                                    "userInputValue": "Barbara Whitney Carr Administration Building"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "itemName": "departmentNumber",
+                                        "function": "Equals/string",
+                                        "targetValue": {
+                                            "dataType": "string",
+                                            "mandatory": true,
+                                            "args": [
+                                                {
+                                                    "position": 0,
+                                                    "type": "string",
+                                                    "userInputValue": "158000"
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            ]
+                        },
+                        {
+                            "ruleDefinition": {
+                                "targetValue": {
+                                    "dataType": "string",
+                                    "mandatory": true,
+                                    "args": [
+                                        {
+                                            "position": 0,
+                                            "type": "string",
+                                            "userInputValue": "Barbara-303000"
+                                        }
+                                    ]
+                                }
+                            },
+                            "filter": [
+                                [
+                                    {
+                                        "itemName": "physicalDeliveryOfficeName",
+                                        "function": "Equals/string",
+                                        "targetValue": {
+                                            "dataType": "string",
+                                            "mandatory": true,
+                                            "args": [
+                                                {
+                                                    "position": 0,
+                                                    "type": "string",
+                                                    "userInputValue": "Barbara Whitney Carr Administration Building"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "itemName": "departmentNumber",
+                                        "function": "Equals/string",
+                                        "targetValue": {
+                                            "dataType": "string",
+                                            "mandatory": true,
+                                            "args": [
+                                                {
+                                                    "position": 0,
+                                                    "type": "string",
+                                                    "userInputValue": "303000"
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            ]
+                        },
+                        {
+                            "ruleDefinition": {
+                                "targetValue": {
+                                    "dataType": "string",
+                                    "mandatory": true,
+                                    "args": [
+                                        {
+                                            "position": 0,
+                                            "type": "string",
+                                            "userInputValue": "Barbara-304000"
+                                        }
+                                    ]
+                                }
+                            },
+                            "filter": [
+                                [
+                                    {
+                                        "itemName": "physicalDeliveryOfficeName",
+                                        "function": "Equals/string",
+                                        "targetValue": {
+                                            "dataType": "string",
+                                            "mandatory": true,
+                                            "args": [
+                                                {
+                                                    "position": 0,
+                                                    "type": "string",
+                                                    "userInputValue": "Barbara Whitney Carr Administration Building"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "itemName": "departmentNumber",
+                                        "function": "Equals/string",
+                                        "targetValue": {
+                                            "dataType": "string",
+                                            "mandatory": true,
+                                            "args": [
+                                                {
+                                                    "position": 0,
+                                                    "type": "string",
+                                                    "userInputValue": "304000"
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            ]
+                        },
+                        {
+                            "ruleDefinition": {
+                                "targetValue": {
+                                    "dataType": "string",
+                                    "mandatory": true,
+                                    "args": [
+                                        {
+                                            "position": 0,
+                                            "type": "string",
+                                            "userInputValue": "Barbara-601000"
+                                        }
+                                    ]
+                                }
+                            },
+                            "filter": [
+                                [
+                                    {
+                                        "itemName": "physicalDeliveryOfficeName",
+                                        "function": "Equals/string",
+                                        "targetValue": {
+                                            "dataType": "string",
+                                            "mandatory": true,
+                                            "args": [
+                                                {
+                                                    "position": 0,
+                                                    "type": "string",
+                                                    "userInputValue": "Barbara Whitney Carr Administration Building"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "itemName": "departmentNumber",
+                                        "function": "Equals/string",
+                                        "targetValue": {
+                                            "dataType": "string",
+                                            "mandatory": true,
+                                            "args": [
+                                                {
+                                                    "position": 0,
+                                                    "type": "string",
+                                                    "userInputValue": "601000"
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            ]
+                        },
+                        {
+                            "ruleDefinition": {
+                                "targetValue": {
+                                    "dataType": "string",
+                                    "mandatory": true,
+                                    "args": [
+                                        {
+                                            "position": 0,
+                                            "type": "string",
+                                            "userInputValue": "Barbara-602000"
+                                        }
+                                    ]
+                                }
+                            },
+                            "filter": [
+                                [
+                                    {
+                                        "itemName": "physicalDeliveryOfficeName",
+                                        "function": "Equals/string",
+                                        "targetValue": {
+                                            "dataType": "string",
+                                            "mandatory": true,
+                                            "args": [
+                                                {
+                                                    "position": 0,
+                                                    "type": "string",
+                                                    "userInputValue": "Barbara Whitney Carr Administration Building"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "itemName": "departmentNumber",
+                                        "function": "Equals/string",
+                                        "targetValue": {
+                                            "dataType": "string",
+                                            "mandatory": true,
+                                            "args": [
+                                                {
+                                                    "position": 0,
+                                                    "type": "string",
+                                                    "userInputValue": "602000"
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            ]
+                        },
+                        {
+                            "ruleDefinition": {
+                                "targetValue": {
+                                    "dataType": "string",
+                                    "mandatory": true,
+                                    "args": [
+                                        {
+                                            "position": 0,
+                                            "type": "string",
+                                            "userInputValue": "Barbara-603000"
+                                        }
+                                    ]
+                                }
+                            },
+                            "filter": [
+                                [
+                                    {
+                                        "itemName": "physicalDeliveryOfficeName",
+                                        "function": "Equals/string",
+                                        "targetValue": {
+                                            "dataType": "string",
+                                            "mandatory": true,
+                                            "args": [
+                                                {
+                                                    "position": 0,
+                                                    "type": "string",
+                                                    "userInputValue": "Barbara Whitney Carr Administration Building"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "itemName": "departmentNumber",
+                                        "function": "Equals/string",
+                                        "targetValue": {
+                                            "dataType": "string",
+                                            "mandatory": true,
+                                            "args": [
+                                                {
+                                                    "position": 0,
+                                                    "type": "string",
+                                                    "userInputValue": "603000"
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            ]
+                        },
+                        {
+                            "ruleDefinition": {
+                                "targetValue": {
+                                    "dataType": "string",
+                                    "mandatory": true,
+                                    "args": [
+                                        {
+                                            "position": 0,
+                                            "type": "string",
+                                            "userInputValue": "Barbara-604000"
+                                        }
+                                    ]
+                                }
+                            },
+                            "filter": [
+                                [
+                                    {
+                                        "itemName": "physicalDeliveryOfficeName",
+                                        "function": "Equals/string",
+                                        "targetValue": {
+                                            "dataType": "string",
+                                            "mandatory": true,
+                                            "args": [
+                                                {
+                                                    "position": 0,
+                                                    "type": "string",
+                                                    "userInputValue": "Barbara Whitney Carr Administration Building"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "itemName": "departmentNumber",
+                                        "function": "Equals/string",
+                                        "targetValue": {
+                                            "dataType": "string",
+                                            "mandatory": true,
+                                            "args": [
+                                                {
+                                                    "position": 0,
+                                                    "type": "string",
+                                                    "userInputValue": "604000"
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            ]
+                        },
+                        {
+                            "ruleDefinition": {
+                                "targetValue": {
+                                    "dataType": "string",
+                                    "mandatory": true,
+                                    "args": [
+                                        {
+                                            "position": 0,
+                                            "type": "string",
+                                            "userInputValue": "Barbara-651000"
+                                        }
+                                    ]
+                                }
+                            },
+                            "filter": [
+                                [
+                                    {
+                                        "itemName": "physicalDeliveryOfficeName",
+                                        "function": "Equals/string",
+                                        "targetValue": {
+                                            "dataType": "string",
+                                            "mandatory": true,
+                                            "args": [
+                                                {
+                                                    "position": 0,
+                                                    "type": "string",
+                                                    "userInputValue": "Barbara Whitney Carr Administration Building"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "itemName": "departmentNumber",
+                                        "function": "Equals/string",
+                                        "targetValue": {
+                                            "dataType": "string",
+                                            "mandatory": true,
+                                            "args": [
+                                                {
+                                                    "position": 0,
+                                                    "type": "string",
+                                                    "userInputValue": "651000"
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            ]
+                        },
+                        {
+                            "ruleDefinition": {
+                                "targetValue": {
+                                    "dataType": "string",
+                                    "mandatory": true,
+                                    "args": [
+                                        {
+                                            "position": 0,
+                                            "type": "string",
+                                            "userInputValue": "Barbara-652000"
+                                        }
+                                    ]
+                                }
+                            },
+                            "filter": [
+                                [
+                                    {
+                                        "itemName": "physicalDeliveryOfficeName",
+                                        "function": "Equals/string",
+                                        "targetValue": {
+                                            "dataType": "string",
+                                            "mandatory": true,
+                                            "args": [
+                                                {
+                                                    "position": 0,
+                                                    "type": "string",
+                                                    "userInputValue": "Barbara Whitney Carr Administration Building"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "itemName": "departmentNumber",
+                                        "function": "Equals/string",
+                                        "targetValue": {
+                                            "dataType": "string",
+                                            "mandatory": true,
+                                            "args": [
+                                                {
+                                                    "position": 0,
+                                                    "type": "string",
+                                                    "userInputValue": "652000"
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            ]
+                        },
+                        {
+                            "ruleDefinition": {
+                                "targetValue": {
+                                    "dataType": "string",
+                                    "mandatory": true,
+                                    "args": [
+                                        {
+                                            "position": 0,
+                                            "type": "string",
+                                            "userInputValue": "Barbara-654000"
+                                        }
+                                    ]
+                                }
+                            },
+                            "filter": [
+                                [
+                                    {
+                                        "itemName": "physicalDeliveryOfficeName",
+                                        "function": "Equals/string",
+                                        "targetValue": {
+                                            "dataType": "string",
+                                            "mandatory": true,
+                                            "args": [
+                                                {
+                                                    "position": 0,
+                                                    "type": "string",
+                                                    "userInputValue": "Barbara Whitney Carr Administration Building"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "itemName": "departmentNumber",
+                                        "function": "Equals/string",
+                                        "targetValue": {
+                                            "dataType": "string",
+                                            "mandatory": true,
+                                            "args": [
+                                                {
+                                                    "position": 0,
+                                                    "type": "string",
+                                                    "userInputValue": "654000"
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            ]
+                        },
+                        {
+                            "ruleDefinition": {
+                                "targetValue": {
+                                    "dataType": "string",
+                                    "mandatory": true,
+                                    "args": [
+                                        {
+                                            "position": 0,
+                                            "type": "string",
+                                            "userInputValue": "Barbara-655000"
+                                        }
+                                    ]
+                                }
+                            },
+                            "filter": [
+                                [
+                                    {
+                                        "itemName": "physicalDeliveryOfficeName",
+                                        "function": "Equals/string",
+                                        "targetValue": {
+                                            "dataType": "string",
+                                            "mandatory": true,
+                                            "args": [
+                                                {
+                                                    "position": 0,
+                                                    "type": "string",
+                                                    "userInputValue": "Barbara Whitney Carr Administration Building"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "itemName": "departmentNumber",
+                                        "function": "Equals/string",
+                                        "targetValue": {
+                                            "dataType": "string",
+                                            "mandatory": true,
+                                            "args": [
+                                                {
+                                                    "position": 0,
+                                                    "type": "string",
+                                                    "userInputValue": "655000"
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            ]
+                        },
+                        {
+                            "ruleDefinition": {
+                                "targetValue": {
+                                    "dataType": "string",
+                                    "mandatory": true,
+                                    "args": [
+                                        {
+                                            "position": 0,
+                                            "type": "string",
+                                            "userInputValue": "Barbara-656000"
+                                        }
+                                    ]
+                                }
+                            },
+                            "filter": [
+                                [
+                                    {
+                                        "itemName": "physicalDeliveryOfficeName",
+                                        "function": "Equals/string",
+                                        "targetValue": {
+                                            "dataType": "string",
+                                            "mandatory": true,
+                                            "args": [
+                                                {
+                                                    "position": 0,
+                                                    "type": "string",
+                                                    "userInputValue": "Barbara Whitney Carr Administration Building"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "itemName": "departmentNumber",
+                                        "function": "Equals/string",
+                                        "targetValue": {
+                                            "dataType": "string",
+                                            "mandatory": true,
+                                            "args": [
+                                                {
+                                                    "position": 0,
+                                                    "type": "string",
+                                                    "userInputValue": "656000"
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            ]
+                        },
+                        {
+                            "ruleDefinition": {
+                                "targetValue": {
+                                    "dataType": "string",
+                                    "mandatory": true,
+                                    "args": [
+                                        {
+                                            "position": 0,
+                                            "type": "string",
+                                            "userInputValue": "Barbara-657000"
+                                        }
+                                    ]
+                                }
+                            },
+                            "filter": [
+                                [
+                                    {
+                                        "itemName": "physicalDeliveryOfficeName",
+                                        "function": "Equals/string",
+                                        "targetValue": {
+                                            "dataType": "string",
+                                            "mandatory": true,
+                                            "args": [
+                                                {
+                                                    "position": 0,
+                                                    "type": "string",
+                                                    "userInputValue": "Barbara Whitney Carr Administration Building"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "itemName": "departmentNumber",
+                                        "function": "Equals/string",
+                                        "targetValue": {
+                                            "dataType": "string",
+                                            "mandatory": true,
+                                            "args": [
+                                                {
+                                                    "position": 0,
+                                                    "type": "string",
+                                                    "userInputValue": "657000"
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            ]
+                        },
+                        {
+                            "ruleDefinition": {
+                                "targetValue": {
+                                    "dataType": "string",
+                                    "mandatory": true,
+                                    "args": [
+                                        {
+                                            "position": 0,
+                                            "type": "string",
+                                            "userInputValue": "Barbara-658000"
+                                        }
+                                    ]
+                                }
+                            },
+                            "filter": [
+                                [
+                                    {
+                                        "itemName": "physicalDeliveryOfficeName",
+                                        "function": "Equals/string",
+                                        "targetValue": {
+                                            "dataType": "string",
+                                            "mandatory": true,
+                                            "args": [
+                                                {
+                                                    "position": 0,
+                                                    "type": "string",
+                                                    "userInputValue": "Barbara Whitney Carr Administration Building"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "itemName": "departmentNumber",
+                                        "function": "Equals/string",
+                                        "targetValue": {
+                                            "dataType": "string",
+                                            "mandatory": true,
+                                            "args": [
+                                                {
+                                                    "position": 0,
+                                                    "type": "string",
+                                                    "userInputValue": "658000"
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            ]
+                        },
+                        {
+                            "ruleDefinition": {
+                                "targetValue": {
+                                    "dataType": "string",
+                                    "mandatory": true,
+                                    "args": [
+                                        {
+                                            "position": 0,
+                                            "type": "string",
+                                            "userInputValue": "Barbara-659000"
+                                        }
+                                    ]
+                                }
+                            },
+                            "filter": [
+                                [
+                                    {
+                                        "itemName": "physicalDeliveryOfficeName",
+                                        "function": "Equals/string",
+                                        "targetValue": {
+                                            "dataType": "string",
+                                            "mandatory": true,
+                                            "args": [
+                                                {
+                                                    "position": 0,
+                                                    "type": "string",
+                                                    "userInputValue": "Barbara Whitney Carr Administration Building"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "itemName": "departmentNumber",
+                                        "function": "Equals/string",
+                                        "targetValue": {
+                                            "dataType": "string",
+                                            "mandatory": true,
+                                            "args": [
+                                                {
+                                                    "position": 0,
+                                                    "type": "string",
+                                                    "userInputValue": "659000"
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            ]
+                        },
+                        {
+                            "ruleDefinition": {
+                                "targetValue": {
+                                    "dataType": "string",
+                                    "mandatory": true,
+                                    "args": [
+                                        {
+                                            "position": 0,
+                                            "type": "string",
+                                            "userInputValue": "Barbara-702000"
+                                        }
+                                    ]
+                                }
+                            },
+                            "filter": [
+                                [
+                                    {
+                                        "itemName": "physicalDeliveryOfficeName",
+                                        "function": "Equals/string",
+                                        "targetValue": {
+                                            "dataType": "string",
+                                            "mandatory": true,
+                                            "args": [
+                                                {
+                                                    "position": 0,
+                                                    "type": "string",
+                                                    "userInputValue": "Barbara Whitney Carr Administration Building"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "itemName": "departmentNumber",
+                                        "function": "Equals/string",
+                                        "targetValue": {
+                                            "dataType": "string",
+                                            "mandatory": true,
+                                            "args": [
+                                                {
+                                                    "position": 0,
+                                                    "type": "string",
+                                                    "userInputValue": "702000"
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            ]
+                        },
+                        {
+                            "ruleDefinition": {
+                                "targetValue": {
+                                    "dataType": "string",
+                                    "mandatory": true,
+                                    "args": [
+                                        {
+                                            "position": 0,
+                                            "type": "string",
+                                            "userInputValue": "Barbara-703000"
+                                        }
+                                    ]
+                                }
+                            },
+                            "filter": [
+                                [
+                                    {
+                                        "itemName": "physicalDeliveryOfficeName",
+                                        "function": "Equals/string",
+                                        "targetValue": {
+                                            "dataType": "string",
+                                            "mandatory": true,
+                                            "args": [
+                                                {
+                                                    "position": 0,
+                                                    "type": "string",
+                                                    "userInputValue": "Barbara Whitney Carr Administration Building"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "itemName": "departmentNumber",
+                                        "function": "Equals/string",
+                                        "targetValue": {
+                                            "dataType": "string",
+                                            "mandatory": true,
+                                            "args": [
+                                                {
+                                                    "position": 0,
+                                                    "type": "string",
+                                                    "userInputValue": "703000"
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            ]
+                        },
+                        {
+                            "ruleDefinition": {
+                                "targetValue": {
+                                    "dataType": "string",
+                                    "mandatory": true,
+                                    "args": [
+                                        {
+                                            "position": 0,
+                                            "type": "string",
+                                            "userInputValue": "Barbara-704000"
+                                        }
+                                    ]
+                                }
+                            },
+                            "filter": [
+                                [
+                                    {
+                                        "itemName": "physicalDeliveryOfficeName",
+                                        "function": "Equals/string",
+                                        "targetValue": {
+                                            "dataType": "string",
+                                            "mandatory": true,
+                                            "args": [
+                                                {
+                                                    "position": 0,
+                                                    "type": "string",
+                                                    "userInputValue": "Barbara Whitney Carr Administration Building"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "itemName": "departmentNumber",
+                                        "function": "Equals/string",
+                                        "targetValue": {
+                                            "dataType": "string",
+                                            "mandatory": true,
+                                            "args": [
+                                                {
+                                                    "position": 0,
+                                                    "type": "string",
+                                                    "userInputValue": "704000"
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            ]
+                        },
+                        {
+                            "ruleDefinition": {
+                                "targetValue": {
+                                    "dataType": "string",
+                                    "mandatory": true,
+                                    "args": [
+                                        {
+                                            "position": 0,
+                                            "type": "string",
+                                            "userInputValue": "Barbara-705000"
+                                        }
+                                    ]
+                                }
+                            },
+                            "filter": [
+                                [
+                                    {
+                                        "itemName": "physicalDeliveryOfficeName",
+                                        "function": "Equals/string",
+                                        "targetValue": {
+                                            "dataType": "string",
+                                            "mandatory": true,
+                                            "args": [
+                                                {
+                                                    "position": 0,
+                                                    "type": "string",
+                                                    "userInputValue": "Barbara Whitney Carr Administration Building"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "itemName": "departmentNumber",
+                                        "function": "Equals/string",
+                                        "targetValue": {
+                                            "dataType": "string",
+                                            "mandatory": true,
+                                            "args": [
+                                                {
+                                                    "position": 0,
+                                                    "type": "string",
+                                                    "userInputValue": "705000"
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            ]
+                        },
+                        {
+                            "ruleDefinition": {
+                                "targetValue": {
+                                    "dataType": "string",
+                                    "mandatory": true,
+                                    "args": [
+                                        {
+                                            "position": 0,
+                                            "type": "string",
+                                            "userInputValue": "Barbara-011810"
+                                        }
+                                    ]
+                                }
+                            },
+                            "filter": [
+                                [
+                                    {
+                                        "itemName": "physicalDeliveryOfficeName",
+                                        "function": "Equals/string",
+                                        "targetValue": {
+                                            "dataType": "string",
+                                            "mandatory": true,
+                                            "args": [
+                                                {
+                                                    "position": 0,
+                                                    "type": "string",
+                                                    "userInputValue": "Barbara Whitney Carr Administration Building"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "itemName": "departmentNumber",
+                                        "function": "Equals/string",
+                                        "targetValue": {
+                                            "dataType": "string",
+                                            "mandatory": true,
+                                            "args": [
+                                                {
+                                                    "position": 0,
+                                                    "type": "string",
+                                                    "userInputValue": "011810"
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            ]
+                        },
+                        {
+                            "ruleDefinition": {
+                                "targetValue": {
+                                    "dataType": "string",
+                                    "mandatory": true,
+                                    "args": [
+                                        {
+                                            "position": 0,
+                                            "type": "string",
+                                            "userInputValue": "Barbara-015220"
+                                        }
+                                    ]
+                                }
+                            },
+                            "filter": [
+                                [
+                                    {
+                                        "itemName": "physicalDeliveryOfficeName",
+                                        "function": "Equals/string",
+                                        "targetValue": {
+                                            "dataType": "string",
+                                            "mandatory": true,
+                                            "args": [
+                                                {
+                                                    "position": 0,
+                                                    "type": "string",
+                                                    "userInputValue": "Barbara Whitney Carr Administration Building"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "itemName": "departmentNumber",
+                                        "function": "Equals/string",
+                                        "targetValue": {
+                                            "dataType": "string",
+                                            "mandatory": true,
+                                            "args": [
+                                                {
+                                                    "position": 0,
+                                                    "type": "string",
+                                                    "userInputValue": "015220"
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            ]
+                        },
+                        {
+                            "ruleDefinition": {
+                                "targetValue": {
+                                    "dataType": "string",
+                                    "mandatory": true,
+                                    "args": [
+                                        {
+                                            "position": 0,
+                                            "type": "string",
+                                            "userInputValue": "Barbara-016030"
+                                        }
+                                    ]
+                                }
+                            },
+                            "filter": [
+                                [
+                                    {
+                                        "itemName": "physicalDeliveryOfficeName",
+                                        "function": "Equals/string",
+                                        "targetValue": {
+                                            "dataType": "string",
+                                            "mandatory": true,
+                                            "args": [
+                                                {
+                                                    "position": 0,
+                                                    "type": "string",
+                                                    "userInputValue": "Barbara Whitney Carr Administration Building"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "itemName": "departmentNumber",
+                                        "function": "Equals/string",
+                                        "targetValue": {
+                                            "dataType": "string",
+                                            "mandatory": true,
+                                            "args": [
+                                                {
+                                                    "position": 0,
+                                                    "type": "string",
+                                                    "userInputValue": "016030"
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            ]
+                        },
+                        {
+                            "ruleDefinition": {
+                                "targetValue": {
+                                    "dataType": "string",
+                                    "mandatory": true,
+                                    "args": [
+                                        {
+                                            "position": 0,
+                                            "type": "string",
+                                            "userInputValue": "Fruit-306000"
+                                        }
+                                    ]
+                                }
+                            },
+                            "filter": [
+                                [
+                                    {
+                                        "itemName": "physicalDeliveryOfficeName",
+                                        "function": "Equals/string",
+                                        "targetValue": {
+                                            "dataType": "string",
+                                            "mandatory": true,
+                                            "args": [
+                                                {
+                                                    "position": 0,
+                                                    "type": "string",
+                                                    "userInputValue": "Fruit & Vegetable Island"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "itemName": "departmentNumber",
+                                        "function": "Equals/string",
+                                        "targetValue": {
+                                            "dataType": "string",
+                                            "mandatory": true,
+                                            "args": [
+                                                {
+                                                    "position": 0,
+                                                    "type": "string",
+                                                    "userInputValue": "306000"
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            ]
+                        },
+                        {
+                            "ruleDefinition": {
+                                "targetValue": {
+                                    "dataType": "string",
+                                    "mandatory": true,
+                                    "args": [
+                                        {
+                                            "position": 0,
+                                            "type": "string",
+                                            "userInputValue": "Grainger-704000"
+                                        }
+                                    ]
+                                }
+                            },
+                            "filter": [
+                                [
+                                    {
+                                        "itemName": "physicalDeliveryOfficeName",
+                                        "function": "Equals/string",
+                                        "targetValue": {
+                                            "dataType": "string",
+                                            "mandatory": true,
+                                            "args": [
+                                                {
+                                                    "position": 0,
+                                                    "type": "string",
+                                                    "userInputValue": "Grainger Center"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "itemName": "departmentNumber",
+                                        "function": "Equals/string",
+                                        "targetValue": {
+                                            "dataType": "string",
+                                            "mandatory": true,
+                                            "args": [
+                                                {
+                                                    "position": 0,
+                                                    "type": "string",
+                                                    "userInputValue": "704000"
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            ]
+                        },
+                        {
+                            "ruleDefinition": {
+                                "targetValue": {
+                                    "dataType": "string",
+                                    "mandatory": true,
+                                    "args": [
+                                        {
+                                            "position": 0,
+                                            "type": "string",
+                                            "userInputValue": "Green-502000"
+                                        }
+                                    ]
+                                }
+                            },
+                            "filter": [
+                                [
+                                    {
+                                        "itemName": "physicalDeliveryOfficeName",
+                                        "function": "Equals/string",
+                                        "targetValue": {
+                                            "dataType": "string",
+                                            "mandatory": true,
+                                            "args": [
+                                                {
+                                                    "position": 0,
+                                                    "type": "string",
+                                                    "userInputValue": "Green Roof Garden PSC"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "itemName": "departmentNumber",
+                                        "function": "Equals/string",
+                                        "targetValue": {
+                                            "dataType": "string",
+                                            "mandatory": true,
+                                            "args": [
+                                                {
+                                                    "position": 0,
+                                                    "type": "string",
+                                                    "userInputValue": "502000"
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            ]
+                        },
+                        {
+                            "ruleDefinition": {
+                                "targetValue": {
+                                    "dataType": "string",
+                                    "mandatory": true,
+                                    "args": [
+                                        {
+                                            "position": 0,
+                                            "type": "string",
+                                            "userInputValue": "Headhouse-121000"
+                                        }
+                                    ]
+                                }
+                            },
+                            "filter": [
+                                [
+                                    {
+                                        "itemName": "physicalDeliveryOfficeName",
+                                        "function": "Equals/string",
+                                        "targetValue": {
+                                            "dataType": "string",
+                                            "mandatory": true,
+                                            "args": [
+                                                {
+                                                    "position": 0,
+                                                    "type": "string",
+                                                    "userInputValue": "Headhouse / Production Greenhouses"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "itemName": "departmentNumber",
+                                        "function": "Equals/string",
+                                        "targetValue": {
+                                            "dataType": "string",
+                                            "mandatory": true,
+                                            "args": [
+                                                {
+                                                    "position": 0,
+                                                    "type": "string",
+                                                    "userInputValue": "121000"
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            ]
+                        },
+                        {
+                            "ruleDefinition": {
+                                "targetValue": {
+                                    "dataType": "string",
+                                    "mandatory": true,
+                                    "args": [
+                                        {
+                                            "position": 0,
+                                            "type": "string",
+                                            "userInputValue": "Horticulture-104000"
+                                        }
+                                    ]
+                                }
+                            },
+                            "filter": [
+                                [
+                                    {
+                                        "itemName": "physicalDeliveryOfficeName",
+                                        "function": "Equals/string",
+                                        "targetValue": {
+                                            "dataType": "string",
+                                            "mandatory": true,
+                                            "args": [
+                                                {
+                                                    "position": 0,
+                                                    "type": "string",
+                                                    "userInputValue": "Horticulture Building"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "itemName": "departmentNumber",
+                                        "function": "Equals/string",
+                                        "targetValue": {
+                                            "dataType": "string",
+                                            "mandatory": true,
+                                            "args": [
+                                                {
+                                                    "position": 0,
+                                                    "type": "string",
+                                                    "userInputValue": "104000"
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            ]
+                        },
+                        {
+                            "ruleDefinition": {
+                                "targetValue": {
+                                    "dataType": "string",
+                                    "mandatory": true,
+                                    "args": [
+                                        {
+                                            "position": 0,
+                                            "type": "string",
+                                            "userInputValue": "Horticulture-105000"
+                                        }
+                                    ]
+                                }
+                            },
+                            "filter": [
+                                [
+                                    {
+                                        "itemName": "physicalDeliveryOfficeName",
+                                        "function": "Equals/string",
+                                        "targetValue": {
+                                            "dataType": "string",
+                                            "mandatory": true,
+                                            "args": [
+                                                {
+                                                    "position": 0,
+                                                    "type": "string",
+                                                    "userInputValue": "Horticulture Building"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "itemName": "departmentNumber",
+                                        "function": "Equals/string",
+                                        "targetValue": {
+                                            "dataType": "string",
+                                            "mandatory": true,
+                                            "args": [
+                                                {
+                                                    "position": 0,
+                                                    "type": "string",
+                                                    "userInputValue": "105000"
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            ]
+                        },
+                        {
+                            "ruleDefinition": {
+                                "targetValue": {
+                                    "dataType": "string",
+                                    "mandatory": true,
+                                    "args": [
+                                        {
+                                            "position": 0,
+                                            "type": "string",
+                                            "userInputValue": "Horticulture-107000"
+                                        }
+                                    ]
+                                }
+                            },
+                            "filter": [
+                                [
+                                    {
+                                        "itemName": "physicalDeliveryOfficeName",
+                                        "function": "Equals/string",
+                                        "targetValue": {
+                                            "dataType": "string",
+                                            "mandatory": true,
+                                            "args": [
+                                                {
+                                                    "position": 0,
+                                                    "type": "string",
+                                                    "userInputValue": "Horticulture Building"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "itemName": "departmentNumber",
+                                        "function": "Equals/string",
+                                        "targetValue": {
+                                            "dataType": "string",
+                                            "mandatory": true,
+                                            "args": [
+                                                {
+                                                    "position": 0,
+                                                    "type": "string",
+                                                    "userInputValue": "107000"
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            ]
+                        },
+                        {
+                            "ruleDefinition": {
+                                "targetValue": {
+                                    "dataType": "string",
+                                    "mandatory": true,
+                                    "args": [
+                                        {
+                                            "position": 0,
+                                            "type": "string",
+                                            "userInputValue": "Horticulture-110000"
+                                        }
+                                    ]
+                                }
+                            },
+                            "filter": [
+                                [
+                                    {
+                                        "itemName": "physicalDeliveryOfficeName",
+                                        "function": "Equals/string",
+                                        "targetValue": {
+                                            "dataType": "string",
+                                            "mandatory": true,
+                                            "args": [
+                                                {
+                                                    "position": 0,
+                                                    "type": "string",
+                                                    "userInputValue": "Horticulture Building"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "itemName": "departmentNumber",
+                                        "function": "Equals/string",
+                                        "targetValue": {
+                                            "dataType": "string",
+                                            "mandatory": true,
+                                            "args": [
+                                                {
+                                                    "position": 0,
+                                                    "type": "string",
+                                                    "userInputValue": "110000"
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            ]
+                        },
+                        {
+                            "ruleDefinition": {
+                                "targetValue": {
+                                    "dataType": "string",
+                                    "mandatory": true,
+                                    "args": [
+                                        {
+                                            "position": 0,
+                                            "type": "string",
+                                            "userInputValue": "Horticulture-111000"
+                                        }
+                                    ]
+                                }
+                            },
+                            "filter": [
+                                [
+                                    {
+                                        "itemName": "physicalDeliveryOfficeName",
+                                        "function": "Equals/string",
+                                        "targetValue": {
+                                            "dataType": "string",
+                                            "mandatory": true,
+                                            "args": [
+                                                {
+                                                    "position": 0,
+                                                    "type": "string",
+                                                    "userInputValue": "Horticulture Building"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "itemName": "departmentNumber",
+                                        "function": "Equals/string",
+                                        "targetValue": {
+                                            "dataType": "string",
+                                            "mandatory": true,
+                                            "args": [
+                                                {
+                                                    "position": 0,
+                                                    "type": "string",
+                                                    "userInputValue": "111000"
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            ]
+                        },
+                        {
+                            "ruleDefinition": {
+                                "targetValue": {
+                                    "dataType": "string",
+                                    "mandatory": true,
+                                    "args": [
+                                        {
+                                            "position": 0,
+                                            "type": "string",
+                                            "userInputValue": "Horticulture-112000"
+                                        }
+                                    ]
+                                }
+                            },
+                            "filter": [
+                                [
+                                    {
+                                        "itemName": "physicalDeliveryOfficeName",
+                                        "function": "Equals/string",
+                                        "targetValue": {
+                                            "dataType": "string",
+                                            "mandatory": true,
+                                            "args": [
+                                                {
+                                                    "position": 0,
+                                                    "type": "string",
+                                                    "userInputValue": "Horticulture Building"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "itemName": "departmentNumber",
+                                        "function": "Equals/string",
+                                        "targetValue": {
+                                            "dataType": "string",
+                                            "mandatory": true,
+                                            "args": [
+                                                {
+                                                    "position": 0,
+                                                    "type": "string",
+                                                    "userInputValue": "112000"
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "transformer.roleBasedDeprovisioning": true,
+            "transformer.scimMappingRules": [
+                {
+                    "dropdownRule": {
+                        "value": "NYU"
+                    },
+                    "groupsValue": {
+                        "groups": [
+                            "768286434263684"
+                        ]
+                    }
+                },
+                {
+                    "dropdownRule": {
+                        "value": "VA"
+                    },
+                    "groupsValue": {
+                        "groups": [
+                            "793987518562650"
+                        ]
+                    }
+                }
+            ],
+            "transformer.groups": [
+                "768286434263686"
+            ],
+            "transformer.operations": [
+                "Provisioning",
+                "Deprovisioning"
+            ],
+            "transformer.identifier": "External Id",
+            "transformer.deliveryPathAdded": false,
+            "transformer.mapping": [
+                {
+                    "item": "First Name",
+                    "value": {
+                        "dataType": "string",
+                        "mandatory": false,
+                        "args": [
+                            {
+                                "position": 0,
+                                "type": "string",
+                                "keyFromTrigger": "ADData/givenName"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "item": "Last Name",
+                    "value": {
+                        "dataType": "string",
+                        "mandatory": false,
+                        "args": [
+                            {
+                                "position": 0,
+                                "type": "string",
+                                "keyFromTrigger": "ADData/sn"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "item": "Record Type",
+                    "value": {
+                        "dataType": "string",
+                        "mandatory": false,
+                        "args": [
+                            {
+                                "position": 0,
+                                "type": "string",
+                                "userInputValue": "Employee"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "item": "Language Preference",
+                    "value": {
+                        "dataType": "string",
+                        "mandatory": false,
+                        "args": [
+                            {
+                                "position": 0,
+                                "type": "string",
+                                "keyFromTrigger": "ADData/extensionAttribute4"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "item": "Location",
+                    "value": {
+                        "dataType": "string",
+                        "mandatory": false,
+                        "args": [
+                            {
+                                "position": 0,
+                                "type": "string",
+                                "keyFromTrigger": "ADData/physicalDeliveryOfficeName"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "item": "Dept #",
+                    "value": {
+                        "dataType": "string",
+                        "mandatory": false,
+                        "args": [
+                            {
+                                "position": 0,
+                                "type": "string",
+                                "keyFromTrigger": "ADData/departmentNumber"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "item": "Country",
+                    "value": {
+                        "dataType": "string",
+                        "mandatory": false,
+                        "args": [
+                            {
+                                "position": 0,
+                                "type": "string",
+                                "keyFromTrigger": "ADData/extensionAttribute3"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "item": "Timezone",
+                    "value": {
+                        "dataType": "string",
+                        "mandatory": false,
+                        "args": [
+                            {
+                                "position": 0,
+                                "type": "string",
+                                "keyFromTrigger": "ADData/extensionAttribute5"
+                            }
+                        ]
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -57,7 +57,7 @@ function generateQuery(appList) {
     queryList.push(insertQuery + `'${uuidv4()}','${i}','./assets/favicon/MicrosoftScimProvisioning/','SCIMMicrosoft','0','${appList[i]}');`)
    }
    const fileContent = queryList.join('\n');
-   fs.writeFile('newScimQueryList',fileContent, (err) => {
+   fs.writeFile('newScimQueryList.txt',fileContent, (err) => {
     if(err)
         console.log('Failed to generate file , ',err)
     else 
