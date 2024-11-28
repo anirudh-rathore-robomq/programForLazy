@@ -5,38 +5,40 @@ const path = require('path')
 const sheetName = workBook.SheetNames[0];
 const sheet = workBook.Sheets[sheetName];
 const data = xlsx.utils.sheet_to_json(sheet);
+const ouList = require('./tataBlueOU.json')
+// const payExpression = 'Pay Grade Equals xxx AND Department Equals xxx AND Location Contains xxx'
 
-const payExpression = 'Pay Grade Equals xxx AND Department Equals xxx AND Location Contains xxx'
+// const payConditionStruct = 'Pay Grade Equals B1 AND Department Equals Department AND Location Contains Location'
 
-const payConditionStruct = 'Pay Grade Equals B1 AND Department Equals Department AND Location Contains Location'
-
-const priority = 1
+// const priority = 1
 const payRegex = /^M[1-8]$/;
-const payStruct = {
-    "Priority": priority,
-    "OU": "",
-    "Expression": payExpression,
-    "Condition": ""
-}
+// const payStruct = {
+//     "Priority": priority,
+//     "OU": "",
+//     "Expression": payExpression,
+//     "Condition": ""
+// }
 
-function mapPayGradeOU(mapTable) {
+function mapPayGradeOU(mapTable, ouSet) {
     data.map((entry) => {
         try {
             if (payRegex.test(entry.Name)) {
                 const { department, location, ou } = getDepartmentNLocation(entry.DistinguishedName)
-                const pos = parseInt(entry.Name.charAt(1),10);
-                mapTable[pos-1].push({
-                    "OU":ou,
-                    "department":department,
-                    "location":location,
-                    "name":entry.Name
-                })
-                // mapTable.push({
-                //     "Priority": priority,
-                //     "OU": entry.DistinguishedName,
-                //     "Expression": payExpression,
-                //     "Condition": `Pay Grade Equals ${entry.Name} AND Department Equals ${department} AND Location Contains ${location}`,
-                // })
+                if(ouSet.has(ou)) {
+                    const pos = parseInt(entry.Name.charAt(1),10);
+                    mapTable[pos-1].push({
+                        "OU":ou,
+                        "department":department,
+                        "location":location,
+                        "name":entry.Name
+                    })
+                    // mapTable.push({
+                    //     "Priority": priority,
+                    //     "OU": entry.DistinguishedName,
+                    //     "Expression": payExpression,
+                    //     "Condition": `Pay Grade Equals ${entry.Name} AND Department Equals ${department} AND Location Contains ${location}`,
+                    // })
+                }
             }
         } catch (err) {
             console.log(err.message)
@@ -95,21 +97,77 @@ function convertToSingleList(mapTable) {
     const list = []
     mapTable.forEach((subArray) => {
         subArray.forEach((entry) => {
+             //list.push({
+            //         "Priority": priority,
+            //         "OU": entry.OU,
+            //         "Expression": payExpression,
+            //         "Condition": `Pay Grade Equals ${entry.name} AND Department Equals ${entry.department} AND Location Contains ${entry.location}`,
+            //     })
             list.push({
-                    "Priority": priority,
-                    "OU": entry.OU,
-                    "Expression": payExpression,
-                    "Condition": `Pay Grade Equals ${entry.name} AND Department Equals ${entry.department} AND Location Contains ${entry.location}`,
-                })
+                "filter.configpath": [
+                    [
+                        {
+                            "itemName": "HRData/Pay Grade",
+                            "function": "Equals/string",
+                            "targetValue.textarea.configpath": {
+                                "type": "string",
+                                "value": `<div>${entry.name}</div>`
+                            }
+                        },
+                        {
+                            "itemName": "HRData/Department",
+                            "function": "Equals/string",
+                            "targetValue.textarea.configpath": {
+                                "type": "string",
+                                "value": `<div>${entry.department}</div>`
+                            }
+                        },
+                        {
+                            "itemName": "HRData/Location",
+                            "function": "Contains/string",
+                            "targetValue.textarea.configpath": {
+                                "type": "string",
+                                "value": `<div>${entry.location}</div>`
+                            }
+                        }
+                    ]
+                ],
+                "OU.configpath": {
+                    "DN.configpath": entry.OU
+                },
+                "mapTableSummaryKeys": {
+                    "filter.configpath": "replicableColHeading",
+                    "OU.configpath": "Choose OU"
+                }
+            })
         })
     })
 
     return list
 }
+
+function printJSON(finalList) {
+    const outputData = JSON.stringify(finalList,null,4)
+    fs.writeFile('OUFilter.json', outputData, (err) => {
+        if (err) {
+            console.error("Error writing to file:", err);
+        } else {
+            console.log("JSON file has been saved.");
+        }
+    });
+}
+function populateOUSet(ouSet) {
+    ouList.OUList.map((ouName) => {
+        ouSet.add(ouName)
+    })
+} 
 (function () {
     const mapTable = [[],[],[],[],[],[],[],[]]
-    mapPayGradeOU(mapTable)
+    const ouSet = new Set()
+    populateOUSet(ouSet)
+    mapPayGradeOU(mapTable,ouSet)
     const finalList = sortLocation(mapTable);
-    const csv = convertToCSV(finalList)
-    saveCSVToFile(csv,'payMap.csv')
+    printJSON(finalList)
+    //const csv = convertToCSV(finalList)
+    //saveCSVToFile(csv,'payMap.csv')
 })()
