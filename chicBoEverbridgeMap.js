@@ -1,5 +1,5 @@
 const xlsx = require('xlsx')
-const workBook = xlsx.readFile('./DeptCode_Mapping.xlsx')
+const workBook = xlsx.readFile('./DeptCode_Mapping_Missing_Groups 2-HT_Update.xlsx')
 
 const sheetName = workBook.SheetNames[0];
 const sheet = workBook.Sheets[sheetName];
